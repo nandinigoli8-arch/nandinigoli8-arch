@@ -5,7 +5,7 @@ I'm a second year Electronics and Telecommunicaton engineering student passionat
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: [TFL Assesment]
-- 🌱 I’m learning: [C]
+- 🌱 I’m learning: [C],[node.js],[dsa]
 - 📫 How to reach me: [https://www.linkedin.com/in/nandini-goli]
 - ## 🛠️ Languages & Tools
 [C]
